@@ -5,6 +5,15 @@ This is the Description (https://pmc.ncbi.nlm.nih.gov/articles/PMC8285156/)
 AI is transforming healthcare by enhancing diagnostics, treatment, and operational efficiency. It offers potential for improved patient outcomes, more accurate diagnoses, and personalized treatment plans, while also streamlining administrative tasks and reducing costs. 
 
 Benefits and Risks of AI in Health Care:
+-  Benefits:
+  1. Personalized Medicine:
+  2. Enhanced Patient Engagement
+  3. Drug Discovery and Development
+
+-  Risks:
+  1. Data Privacy and Security
+  2. Job Displacement
+  3. Regulatory Hurdles
 (https://i-jmr.org/2024/1/e53616)
 
 Role of Artificial Intelligence in Healthcare:
